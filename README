@@ -1,6 +1,9 @@
 Summary:
 
-GraphWorks is a graph theory visualization tool, created by Gary Haggard, Dan Medani, and the rest of the students in the 2010 Graph Theory course at Bucknell University. The goal is to give students studying discrete structures / graph theory a visual aid into some of the essential algorithms of graph theory. It was presented as a poster at the SOFTVIS 2010 Proceedings of the 5th international symposium on Software Visualization.
+GraphWorks is a graph theory visualization tool, created by Gary Haggard, Dan Medani, and the rest of the students 
+in the 2010 Graph Theory course at Bucknell University. The goal is to give students studying discrete structures / graph 
+theory a visual aid into some of the essential algorithms of graph theory. It was presented as a poster at the SOFTVIS 
+2010 Proceedings of the 5th international symposium on Software Visualization.
 
 http://users.soe.ucsc.edu/~pang/visweek/2010/softvis/docs/p205.pdf
 
